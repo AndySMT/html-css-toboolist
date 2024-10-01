@@ -62,7 +62,6 @@
 .logo{
     display: inline-block;
     vertical-align: middle;
-    
 }
 header{
     background-color: white;
@@ -70,10 +69,12 @@ header{
 /*Main*/
 main{
     background-color: #f7f9fa;
-    background-size: 100%;
+    background-size: 70%;
+    background-color: #bebebe;
     width: 100%;
     padding: 20px;
     text-align: center;
+    vertical-align: bottom;
 }
 #task{
 border-radius: 5px;
@@ -96,16 +97,23 @@ li{
 .space{
     width: 100%;
     padding: 20px;
-    text-align: center;
+    text-align: bottom;
 }
-
-/* box {
-     width: 200px;
-     height: 200px;
-     background-color: blue;
-     display: inline-block;
-     text-align: center;
-     line-height: 200px;
-     border-radius: 50%;
-} */
-  
+.check{
+    width: 20px;
+    height: 20px;
+    border: 1px solid green;
+    display: inline-block;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 50%;
+}
+.cross{
+    width: 20px;
+    height: 20px;
+    border: 1px solid red;
+    display: inline-block;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 50%;
+}
