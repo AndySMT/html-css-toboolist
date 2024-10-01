@@ -21,36 +21,42 @@
     border-radius: 7px;
     padding: 4px;
     border: 3px;
+    
 }
 .button-purple{
     background-color: #9b71e3;
     color: white;
     border-radius: 7px;
     padding: 4px;
+    
 }
 .button-lightgreen{
     background-color: #63bfa8;
     color: white;
     border-radius: 7px;
     padding: 4px;
+    
 }
 .button-orange{
     background-color: #f29f33;
     color: white;
     border-radius: 7px;
     padding: 4px;
+    
 }
 .button-pink{
     background-color: #d964a0;
     color: white;
     border-radius: 7px;
     padding: 4px;
+    
 }
 .button-green{
     background-color: #b1c926;
     color: white;
     border-radius: 7px;
     padding: 4px;
+    
 }
 /*Header*/
 .logo{
@@ -65,15 +71,41 @@ header{
 main{
     background-color: #f7f9fa;
     background-size: 100%;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
 }
 #task{
 border-radius: 5px;
-border-width: 80%;
+border-width: 80px;
 }
-#section{
-    border-radius: 5px;
+.line{
+     border-bottom: 1px solid #f7f9fa;
+     padding-top: 10px;
+     padding-bottom: 20px;
 }
-
+/*section1*/
+/*section3*/
+/*section3*/
 ul{
     list-style: none;
 }
+li{
+    margin-bottom: 11px;
+}
+.space{
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+}
+
+/* box {
+     width: 200px;
+     height: 200px;
+     background-color: blue;
+     display: inline-block;
+     text-align: center;
+     line-height: 200px;
+     border-radius: 50%;
+} */
+  
