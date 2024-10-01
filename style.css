@@ -1,3 +1,8 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 /*Useful things*/
 .poppins-regular {
   font-family: "Poppins", sans-serif;
@@ -33,11 +38,6 @@
     color: #b1c926;
 }
 /*Header*/
-body{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
 .logo{
     display: inline-block;
     vertical-align: middle;
@@ -57,4 +57,8 @@ border-width: 80%;
 }
 #section{
     border-radius: 5px;
+}
+
+ul{
+    list-style: none;
 }
