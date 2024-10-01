@@ -23,19 +23,34 @@
     border: 3px;
 }
 .button-purple{
-    color: #9b71e3;
+    background-color: #9b71e3;
+    color: white;
+    border-radius: 7px;
+    padding: 4px;
 }
 .button-lightgreen{
-    color: #63bfa8;
+    background-color: #63bfa8;
+    color: white;
+    border-radius: 7px;
+    padding: 4px;
 }
 .button-orange{
-    color: #f29f33;
+    background-color: #f29f33;
+    color: white;
+    border-radius: 7px;
+    padding: 4px;
 }
 .button-pink{
-    color: #d964a0;
+    background-color: #d964a0;
+    color: white;
+    border-radius: 7px;
+    padding: 4px;
 }
 .button-green{
-    color: #b1c926;
+    background-color: #b1c926;
+    color: white;
+    border-radius: 7px;
+    padding: 4px;
 }
 /*Header*/
 .logo{
