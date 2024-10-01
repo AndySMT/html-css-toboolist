@@ -1,4 +1,4 @@
-/*font*/
+/*Useful things*/
 .poppins-regular {
   font-family: "Poppins", sans-serif;
   font-weight: 400;
@@ -11,7 +11,11 @@
   font-style: normal;
 }
 .button-blue{
-    color: #46adf2;
+    background-color: #46adf2;
+    color: white;
+    border-radius: 7px;
+    padding: 4px;
+    border: 3px;
 }
 .button-purple{
     color: #9b71e3;
@@ -27,4 +31,30 @@
 }
 .button-green{
     color: #b1c926;
+}
+/*Header*/
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+header{
+    background-color: white;
+}
+/*Main*/
+main{
+    background-color: #f7f9fa;
+    background-size: 100%;
+}
+#task{
+border-radius: 5px;
+border-width: 80%;
+}
+#section{
+    border-radius: 5px;
 }
