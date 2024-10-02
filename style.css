@@ -1,7 +1,7 @@
-*{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 /*Useful things*/
 .poppins-regular {
@@ -15,118 +15,110 @@
   font-weight: 700;
   font-style: normal;
 }
-.button-blue{
-    background-color: #46adf2;
-    color: white;
-    border-radius: 7px;
-    padding: 4px;
-    border: 3px;
-    
+.button-blue {
+  background-color: #46adf2;
+  color: white;
+  border-radius: 7px;
+  padding: 4px;
+  border: 3px;
 }
-.button-purple{
-    background-color: #9b71e3;
-    color: white;
-    border-radius: 7px;
-    padding: 4px;
-    
+.button-purple {
+  background-color: #9b71e3;
+  color: white;
+  border-radius: 7px;
+  padding: 4px;
 }
-.button-lightgreen{
-    background-color: #63bfa8;
-    color: white;
-    border-radius: 7px;
-    padding: 4px;
-    
+.button-lightgreen {
+  background-color: #63bfa8;
+  color: white;
+  border-radius: 7px;
+  padding: 4px;
 }
-.button-orange{
-    background-color: #f29f33;
-    color: white;
-    border-radius: 7px;
-    padding: 4px;
-    
+.button-orange {
+  background-color: #f29f33;
+  color: white;
+  border-radius: 7px;
+  padding: 4px;
 }
-.button-pink{
-    background-color: #d964a0;
-    color: white;
-    border-radius: 7px;
-    padding: 4px;
-    
+.button-pink {
+  background-color: #d964a0;
+  color: white;
+  border-radius: 7px;
+  padding: 4px;
 }
-.button-green{
-    background-color: #b1c926;
-    color: white;
-    border-radius: 7px;
-    padding: 4px;
-    
+.button-green {
+  background-color: #b1c926;
+  color: white;
+  border-radius: 7px;
+  padding: 4px;
 }
-body{
-        background-color: #f7f9fa;
+body {
+  background-color: #f7f9fa;
 }
 /*Header*/
-.logo{
-    display: inline-block;
-    vertical-align: middle;
-    height: 80px;
-
+.logo {
+  display: inline-block;
+  vertical-align: middle;
+  height: 80px;
 }
-header{
-    background-color: white;
+header {
+  background-color: white;
 }
 /*Main*/
-main{
-    background-color: white;
-    background-size: 70%;
-    width: 70%;
-    margin: auto;
-    margin-top: 5%;
-    margin-bottom: 3%;
-    vertical-align: center;
-    padding: 5%;
+main {
+  background-color: white;
+  background-size: 70%;
+  width: 70%;
+  margin: auto;
+  margin-top: 5%;
+  margin-bottom: 3%;
+  vertical-align: center;
+  padding: 5%;
 }
-#task{
-border-radius: 5px;
-border-width: 80px;
+#task {
+  border-radius: 5px;
+  border-width: 80px;
 }
-#section{
-    background-color: white;
-    border-color: #f7f9fa;
-    border-radius: 7px;
-    padding: 4px;
+#section {
+  background-color: white;
+  border-color: #f7f9fa;
+  border-radius: 7px;
+  padding: 4px;
 }
-.line{
-     border-bottom: 2px solid #f7f9fa;
-     margin: 2% 2%;
-     padding-top: 2%;
-     padding-bottom: 2%;
+.line {
+  border-bottom: 2px solid #f7f9fa;
+  margin: 2% 2%;
+  padding-top: 2%;
+  padding-bottom: 2%;
 }
 /*section1*/
 /*section3*/
 /*section3*/
-ul{
-    list-style: none;
+ul {
+  list-style: none;
 }
-li{
-    margin-bottom: 11px;
+li {
+  margin-bottom: 11px;
 }
-.space{
-    width: 100%;
-    padding: 20px;
-    text-align: bottom;
+.space {
+  width: 100%;
+  padding: 20px;
 }
-.check{
-    width: 20px;
-    height: 20px;
-    border: 1px solid green;
-    display: inline-block;
-    text-align: center;
-    line-height: 20px;
-    border-radius: 50%;
+.check {
+  width: 20px;
+  height: 20px;
+  border: 1px solid green;
+  display: inline-block;
+  text-align: center;
+  line-height: 20px;
+  border-radius: 50%;
 }
-.cross{
-    width: 20px;
-    height: 20px;
-    border: 1px solid red;
-    display: inline-block;
-    text-align: center;
-    line-height: 20px;
-    border-radius: 50%;
+.cross {
+  width: 20px;
+  height: 20px;
+  border: 1px solid red;
+  display: inline-block;
+  text-align: center;
+  line-height: 20px;
+  border-radius: 50%;
 }
