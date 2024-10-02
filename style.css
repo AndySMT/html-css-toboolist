@@ -62,6 +62,8 @@
 .logo{
     display: inline-block;
     vertical-align: middle;
+    height: 80px;
+
 }
 header{
     background-color: white;
@@ -70,11 +72,11 @@ header{
 main{
     background-color: #f7f9fa;
     background-size: 70%;
-    background-color: #bebebe;
-    width: 100%;
+    background-color: #bebebe;    /*momentaneo*/
+    width: 70%;
+    margin: auto;
+    vertical-align: center;
     padding: 20px;
-    text-align: center;
-    vertical-align: bottom;
 }
 #task{
 border-radius: 5px;
